@@ -126,4 +126,11 @@ button{
     width: 150px;
 }
 
+@media screen and (max-width:735px) {
+  .container-imagens{
+    display: none;
+  }   
+} 
+
+
     
